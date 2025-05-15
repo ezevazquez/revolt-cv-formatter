@@ -71,7 +71,7 @@ export default function AddEmployeePage() {
         <Card>
           <CardHeader>
             <CardTitle>Employee Information</CardTitle>
-            <CardDescription>Enter the employee's full name and JSON data to create a new CV.</CardDescription>
+            <CardDescription>Enter the employee&apos;s full name and JSON data to create a new CV.</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="mb-6">
